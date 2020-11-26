@@ -1,5 +1,5 @@
 {
-    "name": "zhouwang/qrcode",
+    "name": "qingsong/qrcode",
     "description": "qrcode for tp6",
     "homepage": "https://github.com/wangqs33/qrcode",
     "license": "MIT",
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zhouwang\\qrcode\\": "src/"
+            "qingsong\\qrcode\\": "src/"
         }
     }
 }
