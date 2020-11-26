@@ -5,5 +5,5 @@ The tp6 qrcode
 
 ### 一、执行命令安装
 ```
-composer require zhouwang/qrcode
+composer require qingsong/qrcode
 ```
