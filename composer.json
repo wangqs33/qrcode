@@ -1,0 +1,25 @@
+{
+    "name": "zhouwang/qrcode",
+    "description": "qrcode for tp6",
+    "homepage": "https://github.com/wangqs33/qrcode",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "version": "2.0",
+    "authors": [
+        {
+            "name": "zhouwang",
+            "email": "wangqs33@126.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/wangqs33/qrcode/issues"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "zhouwang\\qrcode\\": "src/"
+        }
+    }
+}
