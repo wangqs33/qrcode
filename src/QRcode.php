@@ -1,5 +1,5 @@
 <?php
-namespace zhouwang\qrcode;
+namespace qingsong\qrcode;
 /*
  * PHP QR Code encoder
  *
